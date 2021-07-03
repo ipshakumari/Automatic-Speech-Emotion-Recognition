@@ -1,0 +1,6 @@
+
+pip install soundfile librosa numpy sklearn 
+pip install joblib 
+pip install sounddevice playsound
+sudo apt-get install libportaudio2
+
